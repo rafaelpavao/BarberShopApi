@@ -1,0 +1,6 @@
+arquivo.txt
+.vscode/
+.vs/
+configuration_*
+*.editorconfig
+*.cache
